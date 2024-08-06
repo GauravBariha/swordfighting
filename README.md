@@ -1,5 +1,6 @@
-﻿# swordfighting
-# swordfighting
+# SwordFight
+- Made in HTML , CSS and JavaScript.
+- You can directly open it from .html file.
 Controls -
  player on left =  a = left movement
                    d = right movement 
